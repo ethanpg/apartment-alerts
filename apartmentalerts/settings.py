@@ -84,4 +84,4 @@ STATIC_URL = '/static/'
 
 
 TWILIO_SID = 'AC2acecbdd049dffa1a31955a0c91644fa'
-TWILIO_AUTH = os.environ['TWILIO_AUTH']
+TWILIO_AUTH = os.environ.get('TWILIO_AUTH', '')
