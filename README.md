@@ -6,19 +6,19 @@ This application was developed on February 6-8th, 2015 for the Zillow's Hack Hou
 
 To sign up to receive alerts for our sample building, send a text message to (301)761-5786 with the following form:
 
-   signup <name>, <#> bedrooms, $<income>.
+    signup <name>, <#> bedrooms, $<income>.
 
 For instance, a propspective tenant named Sarah, who makes $18,000 a year and is looking for a 1 bedroom apartment can send:
 
-  signup Sarah, 1 bdrm, $18000.
+   signup Sarah, 1 bdrm, $18000.
 
 When the building manager has an apartment available, they can text all waiting applicants at once by sending the message:
 
-   alert <#> bedroom, <income minimum>-<income maximum>. <any additional message>
+    alert <#> bedroom, <income minimum>-<income maximum>. <any additional message>
 
 For example, if a 1 bedroom becomes available to those making between $10,000 and $20,000, the building manager would send the text:
 
-   alert 1 bedroom, 10,000-20,000. Opening 3/1
+    alert 1 bedroom, 10,000-20,000. Opening 3/1
 
 Sarah, and anyone else signed up would receive the message:
 
