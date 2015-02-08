@@ -12,7 +12,9 @@ For instance, a propspective tenant named Sarah, who makes $18,000 a year and is
 
    signup Sarah, 1 bdrm, $18000.
 
-When the building manager has an apartment available, they can text all waiting applicants at once by sending the message:
+(The building manager can also enter this information through a web interface when talking to the applicant over the phone.)
+
+When the building manager has an apartment available, they can text all waiting applicants that meet the income and unit size criteria by sending the message:
 
     alert <#> bedroom, <income minimum>-<income maximum>. <any additional message>
 
@@ -31,11 +33,11 @@ Note that for ease of demonstration, anyone is currently allowed to send alerts.
 
 ## Challenge and Approach
 
-Our challenge was to make build a system that could make real improvements in the efficiency of finding affordable housing. Key to our approach is the belief that low-income renters are not suffering from a shortage of information. Residents are already aware of the low-income housing in their neighborhoods.
+Our challenge was to build a system that could make real improvements in the efficiency of finding affordable housing. Key to our approach is the belief that low-income renters are not suffering from a shortage of information. Residents are already aware of the low-income housing in their neighborhoods.
 
 From our team's real-world experience at a non-profit housing developer, we have identified an actual problem faced by property managers and applicants: there is usually no automated wait-list for housing. This leads to applicants having to call daily to dozens of buildings in their neighborhoods. Property managers are burdened fielding repeat phone calls.
 
-Additionally, non-profits have very little ability to adopt new IT systems. Instead of a central inventory management system, which would face huge hurtles to adoption, we require no integration whatsoever with existing IT systems, and put adoption in the hands of the individual building managers--the ones that stand to gain the most by adopting our system.
+Additionally, non-profits have very little ability to adopt new IT systems. Instead of proposing a central inventory management system, which would face huge hurtles to adoption, we built a system that requires no integration whatsoever with existing IT systems, and puts adoption in the hands of the individual building managers--the ones that stand to gain the most by adopting our system.
 
 
 ## Team Members
