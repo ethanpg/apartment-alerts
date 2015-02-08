@@ -16,7 +16,7 @@ def hello(request):
 @csrf_exempt
 def alert_applicants(request):
     try:
-        if settings.DEBUG and request.method == 'GET':
+        if request.method == 'GET':
             params = request.GET
         else:
             params = request.POST
