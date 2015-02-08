@@ -30,6 +30,9 @@ The building address and contact phone number are populated automatically from t
 
 Note that for ease of demonstration, anyone is currently allowed to send alerts. In the production system, alert functionality would be limited to the manager.
 
+![SMS Screenshot](screenshot.jpg)
+![Managment Interface](screenshot2.png)
+
 
 ## Challenge and Approach
 
