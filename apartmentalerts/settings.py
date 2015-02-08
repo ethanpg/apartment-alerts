@@ -98,7 +98,10 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.7/howto/static-files/
 
 STATIC_URL = '/static/'
-
+STATIC_ROOT = os.path.join(
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+    'static'
+)
 
 TWILIO_SID = 'AC2acecbdd049dffa1a31955a0c91644fa'
 TWILIO_AUTH = os.environ.get('TWILIO_AUTH', '')
