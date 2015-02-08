@@ -35,7 +35,7 @@ Note that for ease of demonstration, anyone is currently allowed to send alerts.
 
 Our challenge was to build a system that could make real improvements in the efficiency of finding affordable housing. Key to our approach is the belief that low-income renters are not suffering from a shortage of information. Residents are already aware of the low-income housing in their neighborhoods.
 
-From our team's real-world experience at a non-profit housing developer, we have identified an actual problem faced by property managers and applicants: there is usually no automated wait-list for housing. This leads to applicants having to call daily to dozens of buildings in their neighborhoods. Property managers are burdened fielding repeat phone calls.
+From our team's real-world experience as a non-profit housing developer, we have identified an actual problem faced by property managers and applicants: there is no automated wait-list for housing. This leads to applicants having to call daily to dozens of buildings in their neighborhoods. Property managers are burdened fielding repeat phone calls.
 
 Additionally, non-profits have very little ability to adopt new IT systems. Instead of proposing a central inventory management system, which would face huge hurtles to adoption, we built a system that requires no integration whatsoever with existing IT systems, and puts adoption in the hands of the individual building managers--the ones that stand to gain the most by adopting our system.
 
@@ -46,7 +46,7 @@ Our team is comprised of:
 
 - [@ethanpg](http://twitter.com/ethanpg) - Founder of civic tech startup Seattle in Progress.
 - [@whitnuld](http://twitter.com/whitnuld) - Whitney Rearick, Low Income Housing Institute.
-- Jeffrey Wall, Engineering Manager at Microsoft.
+- [@jeffreyjwall](http://twitter.com/jeffreyjwall) Jeffrey Wall, Engineering Manager at Microsoft.
 
 ## Technologies, APIs, and Datasets Utilized
 
