@@ -38,7 +38,7 @@ def alert_applicants(request):
         print("sending to %s" % applicant.phone_number)
         response.message(**{
             'to': applicant.phone_number,
-            'from': from_number,
+            'from': to_number,
             'msg': body
         })
 
